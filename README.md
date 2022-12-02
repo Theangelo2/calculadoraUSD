@@ -66,7 +66,7 @@ Tipo de Conversiones de Divisas:
     
     ingrese la opcion numerica:
 ```
-Deberas ingresar 1, caso contrario te arroaja el error:
+Deberas ingresar 1, caso contrario te arrojará el error:
 ```bash
 ingrese la opcion numerica:  
 Error de Input por favor coloque una opcion validad ejemplo 1 y presione enter 
